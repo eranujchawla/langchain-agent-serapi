@@ -1,0 +1,25 @@
+{
+  "name": "serpapi",
+  "version": "1.0.0",
+  "description": "LLM project using Serp API",
+  "keywords": [
+    "LLM",
+    "SERPAPI",
+    "LANGCHAIN"
+  ],
+  "homepage": "https://github.com/eranujchawla/langchain-agent-serapi#readme",
+  "bugs": {
+    "url": "https://github.com/eranujchawla/langchain-agent-serapi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eranujchawla/langchain-agent-serapi.git"
+  },
+  "license": "ISC",
+  "author": "Anuj Chawla",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
